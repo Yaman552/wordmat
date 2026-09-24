@@ -1,0 +1,7 @@
+WordMath Installer Placeholder
+
+This is a local sample download file used by the landing page.
+Replace this file with the real installer package when available.
+
+Product: WordMath
+Source: local HTML download flow
